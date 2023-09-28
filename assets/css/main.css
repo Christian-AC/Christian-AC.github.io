@@ -1663,7 +1663,11 @@ input, select, textarea {
 
 
 
-		.image_about {
+		#intro .image_about {
 			width: 100px;
 			height: 200px;
+		}
+
+		#intro .major {
+			color: red;
 		}
