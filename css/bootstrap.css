@@ -3312,7 +3312,7 @@ fieldset[disabled] .btn-warning.active {
 
 .btn-danger {
   color: #fff;
-  background-color: #15253F;
+  background-color: #2F3C4F;
   border-color: #d43f3a;
 }
 
@@ -3375,12 +3375,12 @@ fieldset[disabled] .btn-danger:focus,
 fieldset[disabled] .btn-danger.focus,
 fieldset[disabled] .btn-danger:active,
 fieldset[disabled] .btn-danger.active {
-  background-color: #15253F;
+  background-color: #2F3C4F;
   border-color: #d43f3a;
 }
 
 .btn-danger .badge {
-  color: #15253F;
+  color: #2F3C4F;
   background-color: #fff;
 }
 
@@ -5164,7 +5164,7 @@ a.label:focus {
 }
 
 .label-danger {
-  background-color: #15253F;
+  background-color: #2F3C4F;
 }
 
 .label-danger[href]:hover,
@@ -5497,7 +5497,7 @@ a.thumbnail.active {
 }
 
 .progress-bar-danger {
-  background-color: #15253F;
+  background-color: #2F3C4F;
 }
 
 .progress-striped .progress-bar-danger {

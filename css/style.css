@@ -21,7 +21,7 @@ body {
 }
 
 .button {
-  background-color: #15253F;
+  background-color: #2F3C4F;
 
   border: none;
   color: white;
@@ -62,7 +62,7 @@ body {
 }
 
 a {
-  color: #15253F;
+  color: #2F3C4F;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -71,7 +71,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: #15253F;
+  color: #2F3C4F;
   outline: none;
   text-decoration: none;
 }
@@ -95,17 +95,17 @@ figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #15253F;
+  background: #2F3C4F;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #15253F;
+  background: #2F3C4F;
 }
 
 ::selection {
   color: #fff;
-  background: #15253F;
+  background: #2F3C4F;
 }
 
 #fh5co-header,
@@ -267,7 +267,7 @@ figure {
 }
 
 #fh5co-features {
-  background: #15253F;
+  background: #2F3C4F;
 }
 
 #fh5co-features h2 {
@@ -308,7 +308,7 @@ figure {
   display: table-cell;
   vertical-align: middle;
   height: 100px;
-  color: #15253F !important;
+  color: #2F3C4F !important;
 }
 
 #fh5co-features .feature-left .feature-copy {
@@ -366,7 +366,7 @@ figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #15253F;
+  background: #2F3C4F;
 }
 
 .fh5co-bg-dark .fh5co-heading h2 {
@@ -431,7 +431,7 @@ figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #15253F;
+  color: #2F3C4F;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -473,7 +473,7 @@ figure {
 }
 
 #fh5co-about .fh5co-social-icons li a:hover {
-  background: #15253F;
+  background: #2F3C4F;
 }
 
 .fh5co-heading {
@@ -624,7 +624,7 @@ figure {
   top: 40px;
   left: 50%;
   margin-left: -21px;
-  background-color: #15253F;
+  background-color: #2F3C4F;
   z-index: 100;
   display: table;
   -webkit-border-radius: 50%;
@@ -928,7 +928,7 @@ figure {
   height: 54px;
   border: none !important;
   background: #fff;
-  color: #15253F;
+  color: #2F3C4F;
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 400;
@@ -1284,9 +1284,9 @@ input[type="text"] {
 }
 
 .btn-primary {
-  background: #15253F;
+  background: #2F3C4F;
   color: #fff;
-  border: 2px solid #15253F;
+  border: 2px solid #2F3C4F;
 }
 
 .btn-primary:hover,
@@ -1298,14 +1298,14 @@ input[type="text"] {
 
 .btn-primary.btn-outline {
   background: transparent;
-  color: #15253F;
-  border: 2px solid #15253F;
+  color: #2F3C4F;
+  border: 2px solid #2F3C4F;
 }
 
 .btn-primary.btn-outline:hover,
 .btn-primary.btn-outline:focus,
 .btn-primary.btn-outline:active {
-  background: #15253F;
+  background: #2F3C4F;
   color: #fff;
 }
 
@@ -1471,7 +1471,7 @@ input[type="text"] {
 .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #15253F;
+  border-color: #2F3C4F;
 }
 
 .row-pb-md {
