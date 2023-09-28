@@ -1664,6 +1664,6 @@ input, select, textarea {
 
 
 		.image_about {
-			width: 25%;
-			height: 40%;
+			width: 100px;
+			height: 200px;
 		}
